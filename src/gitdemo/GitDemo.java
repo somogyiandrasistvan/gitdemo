@@ -13,7 +13,7 @@ public class GitDemo {
         }
     }
 
-    private static void metodus() {
+    private void metodus() {
        
     }
     
